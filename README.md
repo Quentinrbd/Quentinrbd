@@ -7,7 +7,7 @@ I'm Quentin Ribardière, a front-end developper junior. I love learning and crea
 📸 Photography <br>
 🎮 Video games <br>
 
-🌱 I’m currently learning on React native
+🌱 I’m currently learning React native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
