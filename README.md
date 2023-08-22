@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Quentin Ribardière, a front-end developper junior. I love learning and creating new things. 🚀
 
-👨‍💻 Web dev <br>
+👨‍💻 Web dev -> currently learning : React native <br>
 ⚽ Sport <br>
 🎵 Music <br>
 📸 Photography <br>
