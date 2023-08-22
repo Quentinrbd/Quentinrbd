@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Quentin Ribardière a front-end developper junior. I love learning and creating new things. 🚀
+I'm Quentin Ribardière, a front-end developper junior. I love learning and creating new things. 🚀
 
 👨‍💻 Web dev
 ⚽ Sport 
