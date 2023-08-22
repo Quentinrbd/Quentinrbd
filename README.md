@@ -26,6 +26,13 @@ I'm Quentin Ribardière, a front-end developper junior. I love learning and crea
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quentinrbd&show_icons=true&locale=en&layout=compact" alt="quentinrbd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quentinrbd&show_icons=true&locale=en" alt="quentinrbd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quentinrbd&" alt="quentinrbd" /></p>
+
+
 
 <!--
 **Quentinrbd/Quentinrbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
