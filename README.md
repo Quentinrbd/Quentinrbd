@@ -7,8 +7,6 @@ I'm Quentin Ribardière, a front-end developper junior. I love learning and crea
 📸 Photography <br>
 🎮 Video games <br>
 
-🌱 I’m currently learning React.JS and working on another projects
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/quentin-ribardière" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-ribardière" height="30" width="40" /></a>
